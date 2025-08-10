@@ -43,21 +43,6 @@
 🔒 Passionate about **Secure Software Engineering, Offensive Security, and DevSecOps**  
 🎯 Building systems that are **resilient by design** and **secure by default**  
 
----
-
-### 🛡️ What I Do  
-- Architect **OWASP-compliant** secure applications  
-- Hunt vulnerabilities — from **XSS & SQLi** to **Privilege Escalation**  
-- Build & secure **CI/CD pipelines** with automated **SAST/DAST** checks  
-- Specialize in **Buffer Overflows, Reverse Engineering, and Binary Exploitation**  
-
----
-
-### 🕶️ Hacker Mindset  
-> *Security isn’t an afterthought — it’s the foundation.*  
-> I merge the worlds of **development** and **cybersecurity** to create software that’s both functional and fortress-strong.  
----
-
 <!-- ========================= TECH STACK ========================= -->
 ## 💻 Tech Stack
 
