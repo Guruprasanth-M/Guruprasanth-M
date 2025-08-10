@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="[YOUR_PROFILE_IMAGE_URL](https://github.com/Guruprasanth-M/photogram/blob/main/logo.png)" alt="Guru Prasanth" width="150" style="border-radius: 50%">
+  <img src="https://github.com/Guruprasanth-M/Guruprasanth-M/blob/main/logo.png" alt="Guru Prasanth" width="150" style="border-radius: 50%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Guru Prasanth</h1>
