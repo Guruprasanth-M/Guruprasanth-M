@@ -8,12 +8,7 @@
 <!-- Main Heading -->
 <h1 align="center">Hi 👋, I'm Guru Prasanth</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity Specialist | Ethical Hacker | DevSecOps Engineer</h3>
-
 ---
-
----
-
-
 <!-- ========================= CONTACT ========================= -->
 ## 🌍 Connect With Me  
 
