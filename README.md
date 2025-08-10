@@ -1,17 +1,13 @@
-<!-- ========================= HEADER ========================= -->
-
-<!-- Profile Picture -->
 <p align="center">
   <img src="https://github.com/Guruprasanth-M/Guruprasanth-M/blob/main/logo.png" alt="Guru Prasanth" width="150" style="border-radius: 50%">
 </p>
 
-<!-- Main Heading -->
 <h1 align="center">Hi 👋, I'm Guru Prasanth</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity Specialist | Ethical Hacker | DevSecOps Engineer</h3>
----
-<!-- ========================= CONTACT ========================= -->
-## 🌍 Connect With Me  
 
+---
+
+## 🌍 Connect With Me  
 <p align="center">
   <a href="https://guruprasanth.selfmade.one/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-2ea44f?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
@@ -30,50 +26,35 @@
   </a>
 </p>
 
-
 ---
-## 🚀 About Me  
 
+## 🚀 About Me  
 💻 **Cybersecurity-Focused Full-Stack Developer**  
 🔒 Passionate about **Secure Software Engineering, Offensive Security, and DevSecOps**  
 🎯 Building systems that are **resilient by design** and **secure by default**  
 
-<!-- ========================= TECH STACK ========================= -->
-## 💻 Tech Stack
+---
 
-### 🖥 Languages
+## 💻 Tech Stack  
+
+### 🖥 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="48" title="PHP">
-  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python">
-  <img src="https://skillicons.dev/icons?i=c" height="48" title="C">
-  <img src="https://skillicons.dev/icons?i=java" height="48" title="Java">
+  <img src="https://skillicons.dev/icons?i=php,python,c,java" height="48">
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Development  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5">
-  <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS3">
-  <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" title="Bootstrap">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" height="48">
 </p>
 
-### 🗄 Databases
+### 🗄 Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="48" title="PostgreSQL">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB">
-  <img src="https://skillicons.dev/icons?i=firebase" height="48" title="Firebase">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" height="48">
 </p>
 
-### ⚙ DevOps & Tools
+### ⚙ DevOps & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker">
-  <img src="https://skillicons.dev/icons?i=nginx" height="48" title="Nginx">
-  <img src="https://skillicons.dev/icons?i=linux" height="48" title="Linux">
-  <img src="https://skillicons.dev/icons?i=bash" height="48" title="Bash">
-  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git">
-  <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,git,github,vscode" height="48">
 </p>
 
 ---
@@ -81,28 +62,19 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100">
 </p>
-<p align="center">
-  <i>⚡ Forever learning & building with the best tools.</i>
-</p>
+<p align="center"><i>⚡ Forever learning & building with the best tools.</i></p>
 
 ---
-<!-- ========================= GITHUB STATS ========================= -->
-## 📊 GitHub Analytics 
+
+## 📊 GitHub Analytics  
 <p align="center">
-  <!-- Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Guruprasanth-M&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" height="180">
-  <!-- Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guruprasanth-M&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117" height="180">
 </p>
-<!-- Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Guruprasanth-M&theme=tokyonight&hide_border=true&background=0d1117" height="180">
 </p>
 
-
-
 ---
-
-<!-- ========================= FOOTER QUOTE ========================= -->
 
 <p align="center">© 2025 Guru Prasanth — All Rights Reserved</p>
