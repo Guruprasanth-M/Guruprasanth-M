@@ -121,59 +121,6 @@
   <i>🎯 Deep dive into Cybersecurity & Development — click to watch!</i>
 </p>
 
-
-<!-- ========================= PROJECTS ========================= -->
-## 📌 Featured Projects
-
-<div align="center">
-
-### 🖼 Photogram – Secure Full-Stack Social Media App  
-`PHP + MySQL` • `Docker` • `GitHub Actions`  
-
-[![Security](https://img.shields.io/badge/Security-95%25%20Threat%20Mitigation-brightgreen?style=flat-square&logo=shield)](#)
-[![Tech](https://img.shields.io/badge/Backend-PHP-blue?style=flat-square&logo=php)](#)
-[![DB](https://img.shields.io/badge/Database-MySQL-orange?style=flat-square&logo=mysql)](#)
-
-> 🔐 Secure social media platform with XSS, SQLi, and CSRF defenses.  
-> 🚀 CI/CD with Docker + GitHub Actions for automated deployment.
-
----
-
-### 💣 Buffer Overflow Vulnerability Simulation  
-`C` • `GDB` • `Reverse Engineering`
-
-[![Exploit](https://img.shields.io/badge/Exploit-Stack%20Overflow-red?style=flat-square&logo=gnu-bash)](#)
-[![Control Flow](https://img.shields.io/badge/Control%20Flow-Hijacked-critical?style=flat-square&logo=hackthebox)](#)
-[![Debug](https://img.shields.io/badge/Debugger-GDB-lightgrey?style=flat-square&logo=gnu)](#)
-
-> 🛠 Simulated real-world stack-based buffer overflows.  
-> 🎯 Achieved reliable control flow hijacking in all test cases.
-
-</div>
-
-
-<!-- ========================= CERTIFICATIONS ========================= -->
-## 🏆 Certifications
-
-<p align="center">
-  <a href="https://selfmade.ninja/verify-cert" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LAHTP%20(Legacy)-8mi9cu1h4g-000000?style=for-the-badge&logo=hackthebox&logoColor=ff0000&labelColor=000000&color=ffffff" />
-  </a>
-  <a href="https://selfmade.ninja/verify-cert" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LAHTP%20Advanced-9rvm98c6v3-000000?style=for-the-badge&logo=linux&logoColor=ff0000&labelColor=000000&color=ffffff" />
-  </a>
-  <a href="https://selfmade.ninja/verify-cert" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Advanced%20Web%20Hacking-1cq40qcmbs-000000?style=for-the-badge&logo=webflow&logoColor=ff0000&labelColor=000000&color=ffffff" />
-  </a>
-</p>
-
-
-
-
-
-
-
-
 <!-- ========================= GITHUB STATS ========================= -->
 ## 📊 GitHub Analytics 
 <p align="center">
@@ -192,7 +139,5 @@
 ---
 
 <!-- ========================= FOOTER QUOTE ========================= -->
-## 💡 Quote of the Day
-> *"Securing the web, one exploit at a time."*
 
 <p align="center">© 2025 Guru Prasanth — All Rights Reserved</p>
