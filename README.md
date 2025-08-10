@@ -1,103 +1,198 @@
-<!-- Banner / Header -->
-<p align="center">
-  <img src="https://github.com/Guruprasanth-M/Guruprasanth-M/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%">
-</p>
+<!-- ========================= HEADER ========================= -->
 
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://github.com/Guruprasanth-M/Guruprasanth-M/blob/main/logo.png" alt="Guru Prasanth" width="150" style="border-radius: 50%">
 </p>
 
+<!-- Main Heading -->
 <h1 align="center">Hi 👋, I'm Guru Prasanth</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Ethical Hacker | DevSecOps</h3>
+<h3 align="center">Full-Stack Developer | Cybersecurity Specialist | Ethical Hacker | DevSecOps Engineer</h3>
 
 ---
 
-## 🌐 Connect With Me
+---
+
+
+<!-- ========================= CONTACT ========================= -->
+## 🌍 Connect With Me  
+
 <p align="center">
-  <a href="https://guruprasanth.selfmade.one/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge"></a>
-  <a href="https://github.com/Guruprasanth-M"><img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/guruprasanth-m-a41a02362/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:guruprasanthm2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://guruprasanth.selfmade.one/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-2ea44f?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Guruprasanth-M" target="_blank">
+    <img src="https://img.shields.io/badge/⚡ GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/guruprasanth-m-a41a02362/" target="_blank">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:guruprasanthm2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/✉️ Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+---
+## 🚀 About Me  
+
+💻 **Cybersecurity-Focused Full-Stack Developer**  
+🔒 Passionate about **Secure Software Engineering, Offensive Security, and DevSecOps**  
+🎯 Building systems that are **resilient by design** and **secure by default**  
+
+---
+
+### 🛡️ What I Do  
+- Architect **OWASP-compliant** secure applications  
+- Hunt vulnerabilities — from **XSS & SQLi** to **Privilege Escalation**  
+- Build & secure **CI/CD pipelines** with automated **SAST/DAST** checks  
+- Specialize in **Buffer Overflows, Reverse Engineering, and Binary Exploitation**  
+
+---
+
+### 🕶️ Hacker Mindset  
+> *Security isn’t an afterthought — it’s the foundation.*  
+> I merge the worlds of **development** and **cybersecurity** to create software that’s both functional and fortress-strong.  
+---
+
+<!-- ========================= TECH STACK ========================= -->
+## 💻 Tech Stack
+
+### 🖥 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="48" title="PHP">
+  <img src="https://skillicons.dev/icons?i=python" height="48" title="Python">
+  <img src="https://skillicons.dev/icons?i=c" height="48" title="C">
+  <img src="https://skillicons.dev/icons?i=java" height="48" title="Java">
+</p>
+
+### 🌐 Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="48" title="HTML5">
+  <img src="https://skillicons.dev/icons?i=css" height="48" title="CSS3">
+  <img src="https://skillicons.dev/icons?i=js" height="48" title="JavaScript">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" title="Bootstrap">
+</p>
+
+### 🗄 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" title="MySQL">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="48" title="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" title="MongoDB">
+  <img src="https://skillicons.dev/icons?i=firebase" height="48" title="Firebase">
+</p>
+
+### ⚙ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="48" title="Docker">
+  <img src="https://skillicons.dev/icons?i=nginx" height="48" title="Nginx">
+  <img src="https://skillicons.dev/icons?i=linux" height="48" title="Linux">
+  <img src="https://skillicons.dev/icons?i=bash" height="48" title="Bash">
+  <img src="https://skillicons.dev/icons?i=git" height="48" title="Git">
+  <img src="https://skillicons.dev/icons?i=github" height="48" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" title="VS Code">
 </p>
 
 ---
 
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,c,linux,bash,html,css,js,docker,git,github" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100">
+</p>
+<p align="center">
+  <i>⚡ Forever learning & building with the best tools.</i>
 </p>
 
 ---
 
-## 🚀 About Me
-Cybersecurity-focused full-stack developer trained at **Selfmade Ninja Academy**.  
-I build secure, scalable web applications and perform **ethical hacking & vulnerability research**.  
+<!-- ========================= YOUTUBE ========================= -->
+## 🎥 Featured YouTube Content  
 
-- 🔐 Specializing in **Web Security, Buffer Overflows, Reverse Engineering**  
-- 🛠️ Skilled in **DevSecOps & CI/CD pipelines**  
-- 🌱 Always learning **advanced exploitation techniques**  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=iM5yzT7en6I&t=11601s" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Now%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=iM5yzT7en6I&t=11601s" target="_blank">
+    <img src="https://img.youtube.com/vi/iM5yzT7en6I/maxresdefault.jpg" alt="Cybersecurity Video" width="600">
+  </a>
+</p>
 
+<p align="center">
+  <i>🎯 Deep dive into Cybersecurity & Development — click to watch!</i>
+</p>
+
+
+<!-- ========================= PROJECTS ========================= -->
 ## 📌 Featured Projects
 
-### 📷 Photogram – Secure Full-Stack Social Media App
-<p>
-  <a href="https://github.com/Guruprasanth-M/photogram_">
-    <img src="YOUR_PHOTOGRAM_SCREENSHOT_URL" alt="Photogram Screenshot" width="600">
-  </a>
-</p>
-- Secure **PHP + MySQL** backend with **Docker & GitHub Actions** deployment  
-- Implemented **XSS, SQLi, CSRF mitigation** with >95% success rate  
+<div align="center">
+
+### 🖼 Photogram – Secure Full-Stack Social Media App  
+`PHP + MySQL` • `Docker` • `GitHub Actions`  
+
+[![Security](https://img.shields.io/badge/Security-95%25%20Threat%20Mitigation-brightgreen?style=flat-square&logo=shield)](#)
+[![Tech](https://img.shields.io/badge/Backend-PHP-blue?style=flat-square&logo=php)](#)
+[![DB](https://img.shields.io/badge/Database-MySQL-orange?style=flat-square&logo=mysql)](#)
+
+> 🔐 Secure social media platform with XSS, SQLi, and CSRF defenses.  
+> 🚀 CI/CD with Docker + GitHub Actions for automated deployment.
 
 ---
 
-### 💣 Buffer Overflow Vulnerability Simulation
-<p>
-  <a href="https://github.com/Guruprasanth-M/bufferoverflow/tree/master">
-    <img src="YOUR_BUFFEROVERFLOW_TERMINAL_IMAGE_URL" alt="Buffer Overflow Demo" width="600">
-  </a>
-</p>
-- Exploited **stack-based buffer overflows** in C using **GDB**  
-- Achieved **control flow hijacking** in all test cases  
+### 💣 Buffer Overflow Vulnerability Simulation  
+`C` • `GDB` • `Reverse Engineering`
 
----
+[![Exploit](https://img.shields.io/badge/Exploit-Stack%20Overflow-red?style=flat-square&logo=gnu-bash)](#)
+[![Control Flow](https://img.shields.io/badge/Control%20Flow-Hijacked-critical?style=flat-square&logo=hackthebox)](#)
+[![Debug](https://img.shields.io/badge/Debugger-GDB-lightgrey?style=flat-square&logo=gnu)](#)
 
-## 📜 Certifications
-- **LAHTP (Legacy)** – Selfmade Ninja Academy *(ID: 8mi9cu1h4g)*
-- **LAHTP Advanced** – Selfmade Ninja Academy *(ID: 9rvm98c6v3)*
-- **Advanced Web Hacking** – Selfmade Ninja Academy *(ID: 1cq40qcmbs)*
+> 🛠 Simulated real-world stack-based buffer overflows.  
+> 🎯 Achieved reliable control flow hijacking in all test cases.
 
----
+</div>
 
-## 📊 GitHub Stats
+
+<!-- ========================= CERTIFICATIONS ========================= -->
+## 🏆 Certifications
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guruprasanth-M&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guruprasanth-M&theme=radical" alt="GitHub Streak" width="48%">
+  <a href="https://selfmade.ninja/verify-cert" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LAHTP%20(Legacy)-8mi9cu1h4g-000000?style=for-the-badge&logo=hackthebox&logoColor=ff0000&labelColor=000000&color=ffffff" />
+  </a>
+  <a href="https://selfmade.ninja/verify-cert" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LAHTP%20Advanced-9rvm98c6v3-000000?style=for-the-badge&logo=linux&logoColor=ff0000&labelColor=000000&color=ffffff" />
+  </a>
+  <a href="https://selfmade.ninja/verify-cert" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Advanced%20Web%20Hacking-1cq40qcmbs-000000?style=for-the-badge&logo=webflow&logoColor=ff0000&labelColor=000000&color=ffffff" />
+  </a>
 </p>
+
+
+
+
+
+
+
+
+<!-- ========================= GITHUB STATS ========================= -->
+## 📊 GitHub Analytics 
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Guruprasanth-M&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" height="180">
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guruprasanth-M&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117" height="180">
+</p>
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Guruprasanth-M&theme=tokyonight&hide_border=true&background=0d1117" height="180">
+</p>
+
+
 
 ---
 
-## 💡 Quote
+<!-- ========================= FOOTER QUOTE ========================= -->
+## 💡 Quote of the Day
 > *"Securing the web, one exploit at a time."*
 
----
-
-<p align="center">© 2025 Guru Prasanth</p>
-
-
-<!--
-**Guruprasanth-M/Guruprasanth-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">© 2025 Guru Prasanth — All Rights Reserved</p>
