@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
+  <img src="https://github.com/Guruprasanth-M/Guruprasanth-M/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" alt="Banner" width="100%">
 </p>
 
 <!-- Profile Picture -->
