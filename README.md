@@ -30,7 +30,12 @@
   <a href="mailto:guruprasanthm2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/✉️ Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.youtube.com/watch?v=iM5yzT7en6I&t=11601s" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
+
+
 ---
 ## 🚀 About Me  
 
@@ -101,26 +106,6 @@
 </p>
 
 ---
-
-<!-- ========================= YOUTUBE ========================= -->
-## 🎥 Featured YouTube Content  
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=iM5yzT7en6I&t=11601s" target="_blank">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Now%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=iM5yzT7en6I&t=11601s" target="_blank">
-    <img src="https://img.youtube.com/vi/iM5yzT7en6I/maxresdefault.jpg" alt="Cybersecurity Video" width="600">
-  </a>
-</p>
-
-<p align="center">
-  <i>🎯 Deep dive into Cybersecurity & Development — click to watch!</i>
-</p>
-
 <!-- ========================= GITHUB STATS ========================= -->
 ## 📊 GitHub Analytics 
 <p align="center">
