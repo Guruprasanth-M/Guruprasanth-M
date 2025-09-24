@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Guruprasanth-M/Guruprasanth-M/blob/main/logo.png" alt="Guru Prasanth" width="150" style="border-radius: 50%">
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Guru Prasanth</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity Specialist | Ethical Hacker | DevSecOps Engineer</h3>
