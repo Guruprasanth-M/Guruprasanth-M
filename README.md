@@ -29,7 +29,7 @@
 ---
 
 ## 🚀 About Me  
-💻 **Cybersecurity-Focused Full-Stack Developer**  
+💻 **Cybersecurity-engineer**  
 🔒 Passionate about **Secure Software Engineering, Offensive Security, and DevSecOps**  
 🎯 Building systems that are **resilient by design** and **secure by default**  
 
@@ -58,23 +58,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100">
-</p>
-<p align="center"><i>⚡ Forever learning & building with the best tools.</i></p>
-
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guruprasanth-M&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guruprasanth-M&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117" height="180">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Guruprasanth-M&theme=tokyonight&hide_border=true&background=0d1117" height="180">
-</p>
-
----
-
-<p align="center">© 2025 Guru Prasanth — All Rights Reserved</p>
